@@ -14,6 +14,7 @@ const NODE_ARGS = [
   '--inspect',
   '--inspect-brk',
   '--trace-deprecation',
+  '--trace-warnings',
   '--experimental-wasm-threads',
   '--wasm-atomics-on-non-shared-memory',
 ]
